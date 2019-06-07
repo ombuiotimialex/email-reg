@@ -1,0 +1,9 @@
+.buttons-container {
+    margin: auto;
+    width: 400px;
+    border: 1px solid darkgreen;
+    height: 600px;
+    border-radius: 15px 15px;
+    box-shadow: #cccccc 2px 2px 5px 6px;
+    background: white;
+}
